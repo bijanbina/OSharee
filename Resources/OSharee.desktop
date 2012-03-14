@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=OSharee
+Comment=Owghat Sharee
+TryExec=eog
+Exec=OSharee
+Terminal=false
+Type=Application
+Categories=Utility;
