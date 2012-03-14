@@ -1,0 +1,12 @@
+----------------------------- Besme allah Rahman Rahim -----------------------------------------
+
+OSharee
+===================================================================
+• it's a some automatic calculator for calculate the prayer time
+  
+for install just run bottom command in terminal:
+autoreconf -i;./configure;make;sudo make install
+
+• NOTE: if you have problem in compile make sure you have install libnotify-dev
+        you can install it in debian system base by
+        sudo apt-get install libnotify-dev 
